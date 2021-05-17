@@ -117,5 +117,12 @@
     "googleMeet": "https://meet.google.com/mss-voww-zfc",
     "frequentlyUsed": true,
     "bookmark": false
-  }
+  },
+   {
+    "name": "Omkar P",
+    "profileImage": "https://avatars.githubusercontent.com/u/4468468?v=4",
+    "googleMeet": "https://meet.google.com/pob-vmjp-ptz",
+    "frequentlyUsed": false,
+    "bookmark": false
+  }  
 ]
